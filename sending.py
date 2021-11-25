@@ -1,4 +1,4 @@
-selalphabet = "abcdefghijklmnopqrstuvwxyz"
+alphabet = "abcdefghijklmnopqrstuvwxyz"
 newMessage = ''
 
 message = input('Please, enter your message:')
